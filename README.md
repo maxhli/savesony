@@ -1,7 +1,7 @@
 # savesony
 Can we save the SONY computer?
 
-TEAM Member: M1, M2 and M3
+TEAM Member: M1 (leader), M2 and M3
 
 In this part of the project, please describe the possible solutions to the dead SONY laptop.
 
