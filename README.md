@@ -26,3 +26,18 @@ The description below focuses on the folling points and discoveries made by Team
 Description:
   During the course of the project Team Sony underwent a few challenges. While our original intent was to give a diagnostic of the computer and compare the parts we came across a few unexpected obstacles, one item in particular being a disc lodged inside the computer (it was located between the top of the shell and above the disc tray). After finally disassembling the machine we discovered that all the main compenents were similiar to that of a desktop; however, one major contrast was that a majority of the compenents were a compact version of their desktop counterparts. Another point of notice is that some of the parts are intergrated together. For example, in laptop the hardware devices, The CPU, the heatsink, and the fan are all connected together where as in a desktop they are separate items.
   Adittionally, most of the hardware is smaller in scale in comparison and is arguably half the size of regular compenents, yet the capacity of the parts are not limited by their inovation. As far as the component function themselves, everything seemed to function the same aside from the touch pad mouse.
+
+Listed Below are the main components to the computer, along with the make and additional information.
+
+Parts:
+
+Motherboard: Made by Sony / Created in Japan
+
+RAM (3 Gigs): Developed in Korea / Made in Korea
+
+CD Drive: Made by Sony / Developed in Japan, processed in China
+
+CPU (single core): Intel
+
+Hard Drive: Made by Sony / Made in Japan
+
